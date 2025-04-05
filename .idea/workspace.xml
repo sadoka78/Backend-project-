@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60791a81-71b3-4f65-9c40-f76e50f197cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/project/project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +26,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "saida",
+    "git-widget-placeholder": "aliyanur",
     "last_opened_file_path": "/Users/aliyanurkaldybai/Desktop/Backend-project-"
   }
 }]]></component>
