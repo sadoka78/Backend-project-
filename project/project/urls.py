@@ -22,4 +22,4 @@ urlpatterns = [
 ]
 
 print('some changes')
-
+print('some changes 2')
